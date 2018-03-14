@@ -1,1 +1,2 @@
-# 2ind
+# 2ind  
+Meu primeiro projeto GIT/GITHUB
